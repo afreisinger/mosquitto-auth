@@ -1,4 +1,4 @@
-# Running Mosquitto using username and password authentication
+# mosquitto using username and password authentication
 
 Configure Mosquitto MQTT broker to require client authentication using a valid username and password. Build on top of [official Eclipse Mosquitto MQTT Broker Docker image](https://hub.docker.com/_/eclipse-mosquitto/).
 
